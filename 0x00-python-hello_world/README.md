@@ -12,4 +12,6 @@ File: 4-print_float.py is a  source code in order to print the float stored in t
 
 File: 5-print_string.py is a source code in order to print 3 times a string stored in the variable str, followed by its first 9 characters.
 
-File: 6-concat.py is a source code to print Welcome to Holberton School!
+File: 6-concat.py is a source code to print Welcome to Holberton School!.
+
+File: 7-edges.py is a source code.
