@@ -15,3 +15,5 @@ File: 5-print_string.py is a source code in order to print 3 times a string stor
 File: 6-concat.py is a source code to print Welcome to Holberton School!.
 
 File: 7-edges.py is a source code.
+
+File: 8-concat_edges.py is a source code to print object-oriented programming with Python, followed by a new line.
