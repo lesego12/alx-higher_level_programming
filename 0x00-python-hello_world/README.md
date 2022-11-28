@@ -25,3 +25,19 @@ File: 10-check_cycle.c is  a function in C that checks if a singly linked list h
 File: 100-write.py is a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19
 
 File: 101-compile is a script that compiles a Python script file.
+
+File: 102-magic_calculation.py is the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+
+
+
+  3           0 LOAD_CONST               1 (98)
+
+              3 LOAD_FAST                0 (a)
+
+              6 LOAD_FAST                1 (b)
+
+              9 BINARY_POWER
+
+             10 BINARY_ADD
+
+             11 RETURN_VALUE
