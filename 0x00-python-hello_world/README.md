@@ -23,3 +23,5 @@ File: 9-easter_egg.py is a Python script that prints “The Zen of Python”, by
 File: 10-check_cycle.c is  a function in C that checks if a singly linked list has a cycle in it.
 
 File: 100-write.py is a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19
+
+File: 101-compile is a script that compiles a Python script file.
