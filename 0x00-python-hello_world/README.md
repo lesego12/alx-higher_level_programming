@@ -17,3 +17,5 @@ File: 6-concat.py is a source code to print Welcome to Holberton School!.
 File: 7-edges.py is a source code.
 
 File: 8-concat_edges.py is a source code to print object-oriented programming with Python, followed by a new line.
+
+File: 9-easter_egg.py is a Python script that prints “The Zen of Python”, by TimPeters.
