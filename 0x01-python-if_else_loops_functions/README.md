@@ -26,3 +26,5 @@ File: 12-fizzbuzz.py is a function that prints the numbers from 1 to 100 separat
 
 File: 13-insert_number.c is a function in C that inserts a number into a sorted singly linked list.
 
+File: 100-print_tebahpla.py is  a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase).
+
