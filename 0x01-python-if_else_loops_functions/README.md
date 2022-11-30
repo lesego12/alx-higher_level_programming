@@ -30,3 +30,4 @@ File: 100-print_tebahpla.py is  a program that prints the ASCII alphabet, in rev
 
 File: 101-remove_char_at.py is a function that creates a copy of the string, removing the character at the position n.
 
+102-magic_calculation.py is a Python function def magic_calculation(a, b, c): that does exactly the same as the following Python bytecode:
