@@ -22,3 +22,5 @@ File: 10-add.py is a function that adds two integers and returns the result.
 
 File: 11-pow.py is a function that computes a to the power of b and return the value.
 
+File: 12-fizzbuzz.py is a function that prints the numbers from 1 to 100 separated by a space.
+
