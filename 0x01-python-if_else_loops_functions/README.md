@@ -28,3 +28,5 @@ File: 13-insert_number.c is a function in C that inserts a number into a sorted 
 
 File: 100-print_tebahpla.py is  a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase).
 
+File: 101-remove_char_at.py is a function that creates a copy of the string, removing the character at the position n.
+
