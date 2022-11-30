@@ -14,3 +14,5 @@ File: 6-print_comb3.py is a program that prints all possible different combinati
 
 File: 7-islower.py is a function that checks for lowercase character.
 
+File: 8-uppercase.py is a function that prints a string in uppercase.
+
