@@ -2,3 +2,5 @@ File: 0-add.py is a program that imports the function def add(a, b): from the fi
 
 File: 1-calculation.py is a program that imports functions from the file calculator_1.py, does some Maths, and prints the result.
 
+File: 2-args.py is a program that prints the number of and the list of its arguments.
+
