@@ -6,4 +6,6 @@ File: 2-args.py is a program that prints the number of and the list of its argum
 
 File: 3-infinite_add.py is a program that prints the result of the addition of all arguments.
 
+File: 4-hidden_discovery.py is a program that prints all the names defined by the compiled module hidden_4.pyc (please download it locally).
+
 
