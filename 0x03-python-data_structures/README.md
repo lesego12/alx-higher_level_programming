@@ -22,3 +22,5 @@ File: 10-divisible_by_2.py is a function that finds all multiples of 2 in a list
 
 File: 11-delete_at.py is a function that deletes the item at a specific position in a list.
 
+File: 12-switch.py is a source code in order to switch value of a and b.
+
