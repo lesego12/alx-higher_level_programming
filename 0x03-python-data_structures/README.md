@@ -26,3 +26,5 @@ File: 12-switch.py is a source code in order to switch value of a and b.
 
 File: 13-is_palindrome.c is a function in C that checks if a singly linked list is a palindrome.
 
+File: 100-print_python_list_info.c is a C function that prints some basic info about Python lists.
+
