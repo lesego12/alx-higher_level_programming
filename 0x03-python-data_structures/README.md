@@ -14,3 +14,5 @@ File: 6-print_matrix_integer.py a function that prints a matrix of integers.
 
 File: 7-add_tuple.py is a function that adds 2 tuples.
 
+File: 8-multiple_returns.py is a function that returns a tuple with the length of a string and its first character.
+
