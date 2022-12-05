@@ -24,3 +24,5 @@ File: 11-delete_at.py is a function that deletes the item at a specific position
 
 File: 12-switch.py is a source code in order to switch value of a and b.
 
+File: 13-is_palindrome.c is a function in C that checks if a singly linked list is a palindrome.
+
