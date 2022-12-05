@@ -16,3 +16,4 @@ File: 7-add_tuple.py is a function that adds 2 tuples.
 
 File: 8-multiple_returns.py is a function that returns a tuple with the length of a string and its first character.
 
+File: 9-max_integer.py is a function that finds the biggest integer of a list.
