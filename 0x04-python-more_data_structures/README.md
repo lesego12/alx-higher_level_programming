@@ -16,3 +16,5 @@ File: 7-update_dictionary.py is a function that replaces or adds key/value in a 
 
 File: 8-simple_delete.py a function that deletes a key in a dictionary.
 
+File: 9-multiply_by_2.py is a function that returns a new dictionary with all values multiplied by 2
+
