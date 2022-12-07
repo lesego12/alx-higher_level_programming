@@ -24,3 +24,5 @@ File: 11-multiply_list_map.py is a function that returns a list with all values 
 
 File: 12-roman_to_int.py is aa function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
 
+File: 100-weight_average.py is a function that returns the weighted average of all integers tuple (<score>, <weight>)
+
