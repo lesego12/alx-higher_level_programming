@@ -29,3 +29,5 @@ File: 100-weight_average.py is a function that returns the weighted average of a
 File: 101-square_matrix_map.py is a function that computes the square value of all integers of a matrix using map.
 
 File: 102-complex_delete.py is a function that deletes keys with a specific value in a dictionary.
+
+File: 103-python.c is C functions that print some basic info about Python lists and Python bytes objects.
