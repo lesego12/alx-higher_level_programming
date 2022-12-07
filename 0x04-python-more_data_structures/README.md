@@ -12,3 +12,5 @@ File: 5-number_keys.py is a function that returns the number of keys in a dictio
 
 File: 6-print_sorted_dictionary.py is a function that prints a dictionary by ordered keys.
 
+File: 7-update_dictionary.py is a function that replaces or adds key/value in a dictionary.
+
