@@ -18,3 +18,5 @@ File: 8-simple_delete.py a function that deletes a key in a dictionary.
 
 File: 9-multiply_by_2.py is a function that returns a new dictionary with all values multiplied by 2
 
+File: 10-best_score.py is a function that returns a key with the biggest integer value.
+
