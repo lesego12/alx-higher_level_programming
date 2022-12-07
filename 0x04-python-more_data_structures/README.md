@@ -10,3 +10,5 @@ File: 4-only_diff_elements.py is a function that returns a set of all elements p
 
 File: 5-number_keys.py is a function that returns the number of keys in a dictionary.
 
+File: 6-print_sorted_dictionary.py is a function that prints a dictionary by ordered keys.
+
