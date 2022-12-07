@@ -14,3 +14,5 @@ File: 6-print_sorted_dictionary.py is a function that prints a dictionary by ord
 
 File: 7-update_dictionary.py is a function that replaces or adds key/value in a dictionary.
 
+File: 8-simple_delete.py a function that deletes a key in a dictionary.
+
