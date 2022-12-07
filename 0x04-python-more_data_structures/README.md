@@ -22,3 +22,5 @@ File: 10-best_score.py is a function that returns a key with the biggest integer
 
 File: 11-multiply_list_map.py is a function that returns a list with all values multiplied by a number without using any loops.
 
+File: 12-roman_to_int.py is aa function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
+
