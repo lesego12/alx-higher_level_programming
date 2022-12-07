@@ -16,3 +16,4 @@ File: 101-easy_print.py is a program that prints #pythoniscool, followed by a ne
 
 File: 102-magic_calculation.py is Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode.
 
+File: 103-fast_alphabet.py is a program that prints the alphabet in uppercase.
