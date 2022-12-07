@@ -14,3 +14,5 @@ File: 100-my_calculator.py is a program that imports all functions from the file
 
 File: 101-easy_print.py is a program that prints #pythoniscool, followed by a new line, in the standard output.
 
+File: 102-magic_calculation.py is Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode.
+
