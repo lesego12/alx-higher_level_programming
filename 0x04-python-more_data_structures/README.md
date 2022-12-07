@@ -26,3 +26,5 @@ File: 12-roman_to_int.py is aa function def roman_to_int(roman_string): that con
 
 File: 100-weight_average.py is a function that returns the weighted average of all integers tuple (<score>, <weight>)
 
+File: 101-square_matrix_map.py is a function that computes the square value of all integers of a matrix using map.
+
