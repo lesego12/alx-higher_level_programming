@@ -7,3 +7,5 @@ File: 2-square.py is a class Square that defines a square by: (based on 1-square
 
 File: 3-square.py is a class Square that defines a square by: (based on 2-square.py)
 
+File: 4-square.py is a class Square that defines a square by: (based on 3-square.py)
+
