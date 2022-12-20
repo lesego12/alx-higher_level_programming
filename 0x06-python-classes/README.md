@@ -3,3 +3,5 @@ You are not allowed to import any module
 
 File: 1-square.py is a class Square that defines a square by: (based on 0-square.py)
 
+File: 2-square.py is a class Square that defines a square by: (based on 1-square.py)
+
