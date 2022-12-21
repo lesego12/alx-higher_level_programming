@@ -8,3 +8,5 @@ File: 3-safe_print_division.py is a function that divides 2 integers and prints 
 
 File: 4-list_division.py is a function that divides element by element 2 lists.
 
+File: 5-raise_exception.py is a function that raises a type exception.
+
