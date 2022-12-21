@@ -11,3 +11,5 @@ File: 4-square.py is a class Square that defines a square by: (based on 3-square
 
 File: 5-square.py is a class Square that defines a square by: (based on 4-square.py)
 
+File: 6-square.py a class Square that defines a square by: (based on 5-square.py)
+
