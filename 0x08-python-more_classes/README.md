@@ -6,3 +6,6 @@ File: 1-rectangle.py is a class Rectangle that defines a rectangle by: (based on
 
 File: 2-rectangle.py is is a class Rectangle that defines a rectangle by: (based on 1-rectangle.py)
 
+File: 3-rectangle.py is a class Rectangle that defines a rectangle by: (based on 2-rectangle.py)
+
+
